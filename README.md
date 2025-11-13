@@ -13,7 +13,8 @@ Tetris is a tile-matching puzzle video game originally designed and programmed b
 - Score tracking: Keep track of the player's score based on the number of lines cleared.
 - Game over detection: End the game when tetrominoes stack up to the top of the grid.
 
-
+##DEMO
+Preview site -- https://arpit2919.github.io/Tetris-Game/
 
 Click on the demo image to view a short video demonstration of the Tetris game in action.
 
@@ -48,4 +49,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Ensure your code follows the project's coding style and conventions.
 - Write clear, concise commit messages.
 - Submit a pull request, explaining the changes you've made and any potential impact.
+
 
